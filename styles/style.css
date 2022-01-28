@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50px;
+}
+
+.green {
+    background: #E0E7CE;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.red {
+    background: #F09B9B;
+    width: 189px;
+    height: 156px;
+    margin: 0 5px;  
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.container {
+    margin: 0 auto;
+    width: 402px;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.half-red {
+    background: #F09B9B;
+    width: 189px;
+    height: 70px;
+    margin: 0 5px;  
+}
+
+.margin {
+    margin-bottom: 16px;
+}
